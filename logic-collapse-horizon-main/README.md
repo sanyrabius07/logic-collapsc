@@ -1,5 +1,6 @@
 <div align="center">
 
+SANY RABIUS_ Nantong University
 # 🧠 Logic Collapse Horizon (LCH)
 ### *XAI-Faithful Neural Network Compression for Intrusion Detection Systems*
 
