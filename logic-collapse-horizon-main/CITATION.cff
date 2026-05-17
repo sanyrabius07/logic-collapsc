@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: "Borkot Tulla"
+    given-names: "Md. Hamid"
+    affiliation: "National Taiwan University of Science and Technology"
+    country: TW
+title: >-
+  Logic Collapse Horizon: SHAP-Regularised LoRA for
+  Explanation-Preserving Intrusion Detection under Compression
+version: 1.0.0
+date-released: "2026-04-29"
+url: "https://github.com/hamidborkot/logic-collapse-horizon"
+license: MIT
+keywords:
+  - intrusion detection
+  - model compression
+  - explainable AI
+  - SHAP
+  - LoRA
+  - logic collapse
+  - edge AI
+  - neural networks
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Borkot Tulla"
+      given-names: "Md. Hamid"
+  title: >-
+    Logic Collapse Under Compression: A SHAP-Regularised LoRA Framework
+    for Explanation-Preserving Edge Intrusion Detection
+  collection-title: "Proceedings of the ACM Conference on Computer and Communications Security (CCS)"
+  year: 2026
+  publisher:
+    name: "ACM"

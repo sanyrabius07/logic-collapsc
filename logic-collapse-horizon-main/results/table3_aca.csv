@@ -1,0 +1,5 @@
+compression,lci,acc,delta_acc
+Teacher (baseline),1.000,0.940,0.000
+PTQ-8bit (safe),0.999,0.940,0.000
+PTQ-5bit (ACA),0.874,0.930,0.009
+PTQ-4bit (detectable),0.680,0.737,0.203

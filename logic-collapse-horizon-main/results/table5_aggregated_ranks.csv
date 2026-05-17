@@ -1,0 +1,8 @@
+method,mean_lci,safe_rate_pct,cohens_d,wilcoxon_p
+Teacher,1.000,100.0,N/A,N/A
+LoRA-SHAP,0.978,96.9,N/A,N/A
+PTQ-8bit,0.999,100.0,0.312,n.s.
+VanillaLoRA,0.910,22.9,2.448,0.0078
+PTQ-4bit,0.599,12.5,1.140,0.031
+Prune-70%,0.739,0.0,1.640,0.0078
+KD,0.502,0.0,7.706,0.0078

@@ -1,0 +1,6 @@
+Method,MPRF_mean,MPRF_median,MPRF_pct_robust,LCI
+Teacher,0.843,0.75,0.0,1.0
+LoRA-SHAP,0.8802,0.699,0.01,0.909
+VanillaLoRA,0.9008,0.818,0.0,0.9052
+KD,0.6891,0.726,0.0,0.6852
+Pruning,0.6546,0.431,0.0,0.6588

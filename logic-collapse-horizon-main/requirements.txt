@@ -1,0 +1,25 @@
+# Logic Collapse Horizon — Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core ML
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data & Science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+
+# Explainability
+shap>=0.44.0
+
+# Datasets
+kagglehub>=0.2.0
+datasets>=2.14.0
+ucimlrepo>=0.0.6
+
+# Utilities
+einops>=0.7.0
+tqdm>=4.65.0
+matplotlib>=3.7.0
