@@ -20,6 +20,6 @@ Department of Computer Science and Technology
 
 > **Author:** SANY RABIUS  
 > **Institution:** :contentReference[oaicite:1]{index=1}  
-> **Supervisor:** *(Add your supervisor's name here if desired)*
+> **Supervisor:** *(Prof. Ju Xiaolin)*
 
 </div>
