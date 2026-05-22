@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 type: software
 authors:
-  - family-names: "Borkot Tulla"
-    given-names: "Md. Hamid"
+  - family-names: "Sany"
+    given-names: "Rabius"
     affiliation: "National Taiwan University of Science and Technology"
     country: TW
 title: >-
@@ -11,7 +11,7 @@ title: >-
   Explanation-Preserving Intrusion Detection under Compression
 version: 1.0.0
 date-released: "2026-04-29"
-url: "https://github.com/hamidborkot/logic-collapse-horizon"
+url: "https://github.com/sanyrabius07/logic-collapse-horizon"
 license: MIT
 keywords:
   - intrusion detection
@@ -25,8 +25,8 @@ keywords:
 preferred-citation:
   type: conference-paper
   authors:
-    - family-names: "Borkot Tulla"
-      given-names: "Md. Hamid"
+    - family-names: "Sany"
+      given-names: "Rabius"
   title: >-
     Logic Collapse Under Compression: A SHAP-Regularised LoRA Framework
     for Explanation-Preserving Edge Intrusion Detection
