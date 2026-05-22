@@ -4,8 +4,8 @@ type: software
 authors:
   - family-names: "Sany"
     given-names: "Rabius"
-    affiliation: "National Taiwan University of Science and Technology"
-    country: TW
+    affiliation: "NTU"
+    country: CN
 title: >-
   Logic Collapse Horizon: SHAP-Regularised LoRA for
   Explanation-Preserving Intrusion Detection under Compression
