@@ -10,7 +10,7 @@ and figures from the paper:
 ## Environment Setup
 
 ```bash
-git clone https://github.com/hamidborkot/logic-collapse-horizon.git
+git clone https://github.com/sanyrabius07/logic-collapse-horizon.git
 cd logic-collapse-horizon
 pip install -r requirements.txt
 ```
